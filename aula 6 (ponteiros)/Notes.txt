@@ -1,0 +1,10 @@
+/*
+int -> 4 bytes
+unsigned int -> 4 bytes
+float -> 4 bytes
+long float -> 8 bytes
+double -> 8 bytes
+long double -> 8 bytes
+char -> 1 byte
+string -> 28 bytes
+*/

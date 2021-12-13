@@ -1,0 +1,16 @@
+Incremento e decremento:
+
+  quando ++ ou -- é utilizado depois da variavel (num++)
+  primeiro se processa o algoritimo e depois se incrementa ou decrementa 1 a ela
+
+  quando ++ ou -- é utilizado antes, o contrário ocorre.
+
+  Ex.:
+
+  int Num1 { 10 }, Num2 { 20 }, Num3, Num4;
+
+  Num3 = Num1++;
+  Num4 = ++Num2;
+
+  no caso acima Num3 receberá o valor de 10 e depois Num1 será incrementado se tornando 11
+  no segundo, Num2 primeiro é incrementado, se tornando 21, e depois Num4 recebe esse valor (21).
